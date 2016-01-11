@@ -1,1 +1,1 @@
-# beginnerLearnGit
+# 初学者学习如何使用git
