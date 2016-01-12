@@ -7,8 +7,6 @@
 	列出所有本地分支和远程分支
 	$ git branch -a
 <br>
-<br>
-	
 	创建一个新分支,但依然停留在当前分支
 	$ git branch <branch-name>
 	创建一个新分支，指向指定commit
@@ -20,15 +18,11 @@
 	切换到指定分支，并更新工作区
 	$ git checkout <branch-name>
 <br>
-<br>
-	
 	合并指定分支到当前分支
 	$ git merge --no-ff <branch-name>
 	选择一个commit，合并进当前分支
 	$ git cherry-pick <commit>
 <br>
-<br>
-	
 	删除分支,但是如果没有合并的时候会导致删除失败
 	$ git branch -d <branch-name>
 	当没有合并的时候也会删除
@@ -37,8 +31,6 @@
 	$ git push origin --delete <branch-name>
 	$ git branch -dr <remote/branch>
 <br>
-<br>
-	
 	查看分支合并图
 	$ git log --graph
 	建立追踪关系，在现有分支与指定的远程分支之间
