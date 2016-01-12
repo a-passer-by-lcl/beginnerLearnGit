@@ -1,11 +1,13 @@
-#一、主分支master
+#分支管理
+
+###一、主分支master
     1、代码库有且仅有一个主分支，即master分支
 
     2、主分支是用来发布某软件或程序正式版本的，即提供给用户版本(1.0, 2.0...)
 
     3、git主分支的名字，默认叫做master，而且是自动建立的，版本库初始化以后，默认就是在主分支在进行开发
 
-#二、开发分支develop
+###二、开发分支develop
     1、日常开发在develop分支上进行，即开发用的分支，叫做develop
 
     2、如果要对外发布，要在master分支对其develop分支进行合并(merge)
@@ -40,14 +42,14 @@
 		(8)、查看合并图
 		$ git log --graph
 　　
-#三、临时性分支
+###三、临时性分支
     1、版本库主要有两条主要分支，即：主分支master与开发分支develop
 
     2、除两条主要分支外还有用于某些特定目的的版本开发，即临时分支
 
     3、临时分支主要有三种，即：功能分支-feature、预发布分支-release、修补bug分支-fixbug
 
-#四、功能分支-feature
+###四、功能分支-feature
     1、即用于开发某些特定功能，从开发分支develop分出来支分支，开发完成后再并入开发分支develop
 
     2、功能分支feature命名形式：feature-*
@@ -63,7 +65,7 @@
 		(3)删除feature分支
 		$ git branch -d feature-x
 
-#五、预发布分支-release
+###五、预发布分支-release
     1、即指发布正式版本之前（即合并到master分支之前），预发布的版本进行测试
 
     2、预发布分支从开发分支develop上分出来支分支，预发布结束以后，必须合并到开发分支develop和主分支master上
@@ -88,7 +90,7 @@
 		(5)删除预发布分支
 		$ git branch -d release-1.0
 
-#六、修补bug分支-fixbug
+###六、修补bug分支-fixbug
     1、即对于正式版本中遇到的bug，进行bug修补的分支
 
     2、修补bug分支是从主分支master上分出来的。修补结束以后，再合并进master和develop分支。它的命名，可以采用fixbug-*的形式。
