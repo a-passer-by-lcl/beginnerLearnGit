@@ -135,9 +135,8 @@
 		$ git stash list
 
 		(7)恢复隐藏起的工作现场
-		   $ git stash apply----恢复后，stash内容并不删除，还需要用git stash drop来删除(不推荐使用)
-
-		   $ git stash pop-----恢复的同时把stash内容也删除了
+		$ git stash apply----恢复后，stash内容并不删除，还需要用git stash drop来删除(不推荐使用)
+		$ git stash pop-----恢复的同时把stash内容也删除了
 
 		(8)多次stash,恢复的时候
 		$ git stash list
