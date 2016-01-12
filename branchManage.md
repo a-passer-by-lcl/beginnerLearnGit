@@ -12,33 +12,33 @@
 
     3、develop分支要比主分支master(待更新)
 
-    4、命令
-	(1)、创建dev分支
-	$ git branch dev master
-	(2)、切换到dev合并
-	$ git checkout dev
-	或者创建并切换
-	$git checkout -b <branchName>
+    4、开发分支develop命令
+		(1)、创建dev分支
+		$ git branch dev master
+		(2)、切换到dev合并
+		$ git checkout dev
+		或者创建并切换
+		$git checkout -b <branchName>
 
-	(3)、查看分支
-	$ git branch
+		(3)、查看分支
+		$ git branch
 
-	(4)、在dev分支进行开发，即
-	$ git add <filename>
-	$ git status
-	$ git commit <filename> -m <message>
+		(4)、在dev分支进行开发，即
+		$ git add <filename>
+		$ git status
+		$ git commit <filename> -m <message>
 
-	(5)、切换到master分支
-	$ git checkout master
+		(5)、切换到master分支
+		$ git checkout master
 
-	(6)、将dev分支合并到master分支
-	$ git merge --no-ff dev
+		(6)、将dev分支合并到master分支
+		$ git merge --no-ff dev
 
-	(7)、删除dev分支
-	$ git branch -d dev
+		(7)、删除dev分支
+		$ git branch -d dev
 
-	(8)、查看合并图
-	$ git log --graph
+		(8)、查看合并图
+		$ git log --graph
 　　
 #三、临时性分支
     1、版本库主要有两条主要分支，即：主分支master与开发分支develop
