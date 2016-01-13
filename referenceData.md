@@ -2,7 +2,7 @@
 
 * [献给写作者的Markdown新手指南](http://www.jianshu.com/p/q81RER)
 
-##Git英文书籍以及资料(英文好的入不像我英语渣)
+###Git英文书籍以及资料(英文好的入不像我英语渣)
 * [Git Reference](http://gitref.org/)
 
 * [GitHub Help](https://help.github.com/)
@@ -23,7 +23,7 @@
 
 * [Git Ready](http://gitready.com/)
 
-##Git资料
+###Git资料
 
 * [Git远程操作详解](http://www.ruanyifeng.com/blog/2014/06/git_remote.html)
 
@@ -43,15 +43,15 @@
 
 * [专为设计师而写的GitHub快速入门教程](http://www.ui.cn/detail/20957.html)
 
-*[Git简明指南](http://rogerdudler.github.io/git-guide/index.zh.html)
+* [Git简明指南](http://rogerdudler.github.io/git-guide/index.zh.html)
 
-*[使用GitHub进行团队合作](http://xiaocong.github.io/blog/2013/03/20/team-collaboration-with-github/)
+* [使用GitHub进行团队合作](http://xiaocong.github.io/blog/2013/03/20/team-collaboration-with-github/)
 
 * [在线交互学习 github 的网站](http://pcottle.github.io/learnGitBranching/?NODEMO)
 
 * [慕课网-版本控制入门-搬进Github](http://www.imooc.com/learn/390)
 
-##Git中文书籍
+###Git中文书籍
 
 * [《GitHub 漫游指南》](http://github.phodal.com/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
@@ -61,9 +61,9 @@
 
 * [《Pro Git》](http://git.oschina.net/progit/)
 
-*[《Git Magic》](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/zh_cn/index.html)
+* [《Git Magic》](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/zh_cn/index.html)
 
-##Git之git-flow
+###Git之git-flow
 
 * [git-flow 备忘清单](http://danielkummer.github.io/git-flow-cheatsheet/index.zh_CN.html)
 
