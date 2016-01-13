@@ -1,47 +1,47 @@
-#GitÈëÃÅ
+#Gitå…¥é—¨
 
-###1¡¢Git¼ò½é
-* GitÊÇÄ¿Ç°ÊÀ½çÉÏ×îÏÈ½øµÄ·Ö²¼Ê½°æ±¾¿ØÖÆÏµÍ³¡£
-* GitÊÇÒ»¸ö·Ö²¼Ê½µÄ°æ±¾¿ØÖÆÏµÍ³£¬×î³õÓÉLinus Torvalds±àĞ´£¬ÓÃ×÷LinuxÄÚºË´úÂëµÄ¹ÜÀí¡£
-* GitHub Ê¹ÓÃ git ·Ö²¼Ê½°æ±¾¿ØÖÆÏµÍ³£¬¶ø git ×î³õÊÇ Linus Torvalds Îª°ïÖúLinux¿ª·¢¶ø´´ÔìµÄ£¬ËüÕë¶ÔµÄÊÇ Linux Æ½Ì¨£¬ÓëWindowsÓĞĞ©Ã¬¶Ü£¬ºóÀ´GitHub ·¢²¼ÁËGitHub for Windows£¬Îª Windows Æ½Ì¨¿ª·¢ÕßÌá¹©ÁËÒ»¸öÒ×ÓÚÊ¹ÓÃµÄ Git Í¼ĞÎ¿Í»§¶Ë¡£
+###1ã€Gitç®€ä»‹
+* Gitæ˜¯ç›®å‰ä¸–ç•Œä¸Šæœ€å…ˆè¿›çš„åˆ†å¸ƒå¼ç‰ˆæœ¬æ§åˆ¶ç³»ç»Ÿã€‚
+* Gitæ˜¯ä¸€ä¸ªåˆ†å¸ƒå¼çš„ç‰ˆæœ¬æ§åˆ¶ç³»ç»Ÿï¼Œæœ€åˆç”±Linus Torvaldsç¼–å†™ï¼Œç”¨ä½œLinuxå†…æ ¸ä»£ç çš„ç®¡ç†ã€‚
+* GitHub ä½¿ç”¨ git åˆ†å¸ƒå¼ç‰ˆæœ¬æ§åˆ¶ç³»ç»Ÿï¼Œè€Œ git æœ€åˆæ˜¯ Linus Torvalds ä¸ºå¸®åŠ©Linuxå¼€å‘è€Œåˆ›é€ çš„ï¼Œå®ƒé’ˆå¯¹çš„æ˜¯ Linux å¹³å°ï¼Œä¸Windowsæœ‰äº›çŸ›ç›¾ï¼Œåæ¥GitHub å‘å¸ƒäº†GitHub for Windowsï¼Œä¸º Windows å¹³å°å¼€å‘è€…æä¾›äº†ä¸€ä¸ªæ˜“äºä½¿ç”¨çš„ Git å›¾å½¢å®¢æˆ·ç«¯ã€‚
 
-###2¡¢´´½¨Git²Ö¿â
-1. ×¢²áÕË»§ÒÔ¼°´´½¨²Ö¿â
-	* µÇÂ½[Github](https://github.com/)×¢²áGithubÕËºÅ--[×¢²á](http://wiki.jikexueyuan.com/project/github-basics/sign-up.html)
-	* [´´½¨²Ö¿â](http://wiki.jikexueyuan.com/project/github-basics/creat-new-repo.html)£¨Ãâ·ÑÓÃ»§Ö»ÄÜ½¨¹«¹²²Ö¿â£©
+###2ã€åˆ›å»ºGitä»“åº“
+1. æ³¨å†Œè´¦æˆ·ä»¥åŠåˆ›å»ºä»“åº“
+	* ç™»é™†[Github](https://github.com/)æ³¨å†ŒGithubè´¦å·--[æ³¨å†Œ](http://wiki.jikexueyuan.com/project/github-basics/sign-up.html)
+	* [åˆ›å»ºä»“åº“](http://wiki.jikexueyuan.com/project/github-basics/creat-new-repo.html)ï¼ˆå…è´¹ç”¨æˆ·åªèƒ½å»ºå…¬å…±ä»“åº“ï¼‰
 
-2. °²×°¿Í»§¶ËmsysGit
-	* WindowsÓÃ»§ÍÆ¼ö[msysGit](https://git-for-windows.github.io/)
-	GithubÊÇ·şÎñ¶Ë£¬ÒªÏëÔÚ×Ô¼ºµçÄÔÉÏÊ¹ÓÃGit»¹ĞèÒªÒ»¸ögit¿Í»§¶Ë
-	* WindowsÓÃ»§ÍÆ¼ö[msysGit](https://git-for-windows.github.io/)
-	* [msysGit°²×°½Ì³Ì](http://jingyan.baidu.com/article/e52e36154233ef40c70c5153.html)
-	* ×°Íêmsysgitºó£¬ÓÒ¼üÊó±ê£¬ÔÚ±¾µØ²Ö¿âÀïÓÒ¼üÑ¡ÔñGit Init Here£¬»á¶à³öÀ´Ò»¸ö.gitÎÄ¼ş¼Ğ£¬Õâ¾Í±íÊ¾±¾µØgit´´½¨³É¹¦¡£
+2. å®‰è£…å®¢æˆ·ç«¯msysGit
+	* Windowsç”¨æˆ·æ¨è[msysGit](https://git-for-windows.github.io/)
+	Githubæ˜¯æœåŠ¡ç«¯ï¼Œè¦æƒ³åœ¨è‡ªå·±ç”µè„‘ä¸Šä½¿ç”¨Gitè¿˜éœ€è¦ä¸€ä¸ªgitå®¢æˆ·ç«¯
+	* Windowsç”¨æˆ·æ¨è[msysGit](https://git-for-windows.github.io/)
+	* [msysGitå®‰è£…æ•™ç¨‹](http://jingyan.baidu.com/article/e52e36154233ef40c70c5153.html)
+	* è£…å®Œmsysgitåï¼Œå³é”®é¼ æ ‡ï¼Œåœ¨æœ¬åœ°ä»“åº“é‡Œå³é”®é€‰æ‹©Git Init Hereï¼Œä¼šå¤šå‡ºæ¥ä¸€ä¸ª.gitæ–‡ä»¶å¤¹ï¼Œè¿™å°±è¡¨ç¤ºæœ¬åœ°gitåˆ›å»ºæˆåŠŸã€‚
 
-3. ÅäÖÃGit
-	* ÒªÔÚ±¾µØÔËĞĞmsysGit£¬ÒÔ¼°Ô¶³Ìµ½Github²Ö¿â£¬ĞèÒª¶ÔÆä×ö³öÒ»ÏµÁĞÅäÖÃ
-	* ÔÚ±¾µØ²Ö¿âÖĞÓÒ¼üGit Bash½øÈëgitÃüÁîĞĞ£¬½øĞĞÈ«¾ÖÅäÖÃÄãµÄÓÃ»§ÃûÓëÓÊÏä
+3. é…ç½®Git
+	* è¦åœ¨æœ¬åœ°è¿è¡ŒmsysGitï¼Œä»¥åŠè¿œç¨‹åˆ°Githubä»“åº“ï¼Œéœ€è¦å¯¹å…¶åšå‡ºä¸€ç³»åˆ—é…ç½®
+	* åœ¨æœ¬åœ°ä»“åº“ä¸­å³é”®Git Bashè¿›å…¥gitå‘½ä»¤è¡Œï¼Œè¿›è¡Œå…¨å±€é…ç½®ä½ çš„ç”¨æˆ·åä¸é‚®ç®±
 		* $ git config --global user.name "your name"
-		* $ git config --global user.email "your-email@youremail.com"
+		* $ git config --global user.email "\your-email@youremail.com"
 
-	* ÓÉÓÚ±¾µØGit²Ö¿âºÍGitHub²Ö¿âÖ®¼äµÄ´«ÊäÊÇÍ¨¹ıSSH¼ÓÃÜµÄ£¬´´½¨SSH Key
-	* ÔÚÓÃ»§Ö÷Ä¿Â¼ÏÂ£¬¿´¿´ÓĞÃ»ÓĞ.sshÄ¿Â¼£¬Èç¹ûÓĞ£¬¿´¿´Õâ¸öÄ¿Â¼ÏÂÓĞÃ»ÓĞid_rsaºÍid_rsa.pubÕâÁ½¸öÎÄ¼ş£¬Èç¹ûÒÑ¾­ÓĞÁË£¬¿ÉÖ±½ÓÌøµ½ÏÂÒ»²½
-	* Èç¹ûÃ»ÓĞÔËĞĞÏÂÃæÃüÁîĞĞ£¬ÊäÈëyes,Ò»Â·»Ø³µ
-		* $ ssh-keygen -t rsa -C "your-email@youremail.com"
+	* ç”±äºæœ¬åœ°Gitä»“åº“å’ŒGitHubä»“åº“ä¹‹é—´çš„ä¼ è¾“æ˜¯é€šè¿‡SSHåŠ å¯†çš„ï¼Œåˆ›å»ºSSH Key
+	* åœ¨ç”¨æˆ·ä¸»ç›®å½•ä¸‹ï¼Œçœ‹çœ‹æœ‰æ²¡æœ‰.sshç›®å½•ï¼Œå¦‚æœæœ‰ï¼Œçœ‹çœ‹è¿™ä¸ªç›®å½•ä¸‹æœ‰æ²¡æœ‰id_rsaå’Œid_rsa.pubè¿™ä¸¤ä¸ªæ–‡ä»¶ï¼Œå¦‚æœå·²ç»æœ‰äº†ï¼Œå¯ç›´æ¥è·³åˆ°ä¸‹ä¸€æ­¥
+	* å¦‚æœæ²¡æœ‰è¿è¡Œä¸‹é¢å‘½ä»¤è¡Œï¼Œè¾“å…¥yes,ä¸€è·¯å›è½¦
+		* $ ssh-keygen -t rsa -C "\your-email@youremail.com"
 
-	* id_rsaºÍid_rsa.pubÎÄ¼şSSH KeyµÄÃØÔ¿¶Ô£¬id_rsaÊÇË½Ô¿£¬²»¿ÉĞ¹Â¶£¬id_rsa.pubÊÇ¹«Ô¿£¬¿É¸æËßÈÎºÎÈË
+	* id_rsaå’Œid_rsa.pubæ–‡ä»¶SSH Keyçš„ç§˜é’¥å¯¹ï¼Œid_rsaæ˜¯ç§é’¥ï¼Œä¸å¯æ³„éœ²ï¼Œid_rsa.pubæ˜¯å…¬é’¥ï¼Œå¯å‘Šè¯‰ä»»ä½•äºº
 
-	* µÇÂ¼Github£¬[ÉèÖÃSSH Key](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/001374385852170d9c7adf13c30429b9660d0eb689dd43a000)
-	* ÑéÖ¤ÊÇ·ñ³É¹¦£¬ÊäÈëÃüÁîĞĞ $ ssh -T git@github.com
+	* ç™»å½•Githubï¼Œ[è®¾ç½®SSH Key](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/001374385852170d9c7adf13c30429b9660d0eb689dd43a000)
+	* éªŒè¯æ˜¯å¦æˆåŠŸï¼Œè¾“å…¥å‘½ä»¤è¡Œ $ ssh -T \git@github.com
 
-4. Ìí¼ÓÔ¶³Ì²Ö¿â£¬µ±ÄãµÄGithubÉÏµÄ²Ö¿âÃ»ÓĞREADME.mdÎÄ¼şÊ±£¬¼´µ±´´½¨²Ö¿âÊ±Äã²»Ñ¡ÔñInitialize this repository with a README
-	* $ git remote add origin git@github.com:yourName/yourRepo.git
-		* yourName-----------ÄãµÄGithubÓÃ»§Ãû
-		* yourRepo-----------ÄãµÄGithubÉÏµÄ²Ö¿â
+4. æ·»åŠ è¿œç¨‹ä»“åº“ï¼Œå½“ä½ çš„Githubä¸Šçš„ä»“åº“æ²¡æœ‰README.mdæ–‡ä»¶æ—¶ï¼Œå³å½“åˆ›å»ºä»“åº“æ—¶ä½ ä¸é€‰æ‹©Initialize this repository with a README
+	* $ git remote add origin \git@github.com:yourName/yourRepo.git
+		* yourName-----------ä½ çš„Githubç”¨æˆ·å
+		* yourRepo-----------ä½ çš„Githubä¸Šçš„ä»“åº“
 
-5.Ìá½»¡¢ÉÏ´«
-* $ git add <files>-----------------------Ìí¼ÓÎÄ¼ş£¬ÉÏ´«µ½Ôİ´æÇø
-$ git status------------------------------²é¿´ÓĞÄÄĞ©ĞŞ¸Ä
-* $ git commit -m "<message>"-------------ÉÏ´«µ½·ÖÖ§
-* $ git push origin master----------------½«±¾µØ²Ö¿âÍÆËÍµ½Ô¶³Ì²Ö¿â
+5.æäº¤ã€ä¸Šä¼ 
+* $ git add <files>-----------------------æ·»åŠ æ–‡ä»¶ï¼Œä¸Šä¼ åˆ°æš‚å­˜åŒº
+* $ git status------------------------------æŸ¥çœ‹æœ‰å“ªäº›ä¿®æ”¹
+* $ git commit -m "<message>"-------------ä¸Šä¼ åˆ°åˆ†æ”¯
+* $ git push origin master----------------å°†æœ¬åœ°ä»“åº“æ¨é€åˆ°è¿œç¨‹ä»“åº“
 
 
