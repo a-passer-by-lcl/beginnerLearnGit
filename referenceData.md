@@ -1,12 +1,12 @@
-#Git²Î¿¼×ÊÁÏ
+#Gitå‚è€ƒèµ„æ–™
 
-* [Ï×¸øĞ´×÷ÕßµÄMarkdownĞÂÊÖÖ¸ÄÏ](http://www.jianshu.com/p/q81RER)
+* [çŒ®ç»™å†™ä½œè€…çš„Markdownæ–°æ‰‹æŒ‡å—](http://www.jianshu.com/p/q81RER)
 
-###GitÓ¢ÎÄÊé¼®ÒÔ¼°×ÊÁÏ
+###Gitè‹±æ–‡ä¹¦ç±ä»¥åŠèµ„æ–™
 
-* [¡¶Pro Git¡·](http://git-scm.com/book/en/v2)
+* [ã€ŠPro Gitã€‹](http://git-scm.com/book/en/v2)
 
-* [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/)
+* [ã€ŠGit Magicã€‹](http://www-cs-students.stanford.edu/~blynn/gitmagic/)
 
 * [Git Ready](http://gitready.com/)
 
@@ -26,51 +26,51 @@
 
 * [Git for Computer Scientists](http://eagain.net/articles/git-for-computer-scientists/)
 
-###Git×ÊÁÏ
-* [Ò»Ò³¾¡ÖªGit, GitCheat Sheet](http://www.songjiaqiang.cn/?p=42)
+###Gitèµ„æ–™
+* [ä¸€é¡µå°½çŸ¥Git, Git Cheat Sheet](http://www.songjiaqiang.cn/?p=42)
 
-* [ÔõÑùÊ¹ÓÃ GitHub£¿(Öªºõ)](http://www.zhihu.com/question/20070065?sort=created)
+* [æ€æ ·ä½¿ç”¨GitHubï¼Ÿ(çŸ¥ä¹)](http://www.zhihu.com/question/20070065?sort=created)
 
-* [×¨ÎªÉè¼ÆÊ¦¶øĞ´µÄGitHub¿ìËÙÈëÃÅ½Ì³Ì](http://www.ui.cn/detail/20957.html)
+* [ä¸“ä¸ºè®¾è®¡å¸ˆè€Œå†™çš„GitHubå¿«é€Ÿå…¥é—¨æ•™ç¨‹](http://www.ui.cn/detail/20957.html)
 
-* [Ä½¿ÎÍø-°æ±¾¿ØÖÆÈëÃÅ-°á½øGithub](http://www.imooc.com/learn/390)
+* [æ…•è¯¾ç½‘---Gitæ§åˆ¶å…¥é—¨](http://www.imooc.com/learn/390)
 
-* [ÁÎÑ©·åµÄ¹Ù·½ÍøÕ¾-----Git½Ì³Ì](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
+* [å»–é›ªå³°---Gitæ•™ç¨‹](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
 
-* [Git¼òÃ÷Ö¸ÄÏ](http://rogerdudler.github.io/git-guide/index.zh.html)
+* [Gitç®€æ˜æŒ‡å—](http://rogerdudler.github.io/git-guide/index.zh.html)
 
-* [GitÔ¶³Ì²Ù×÷Ïê½â](http://www.ruanyifeng.com/blog/2014/06/git_remote.html)
+* [Gitè¿œç¨‹æ“ä½œè¯¦è§£](http://www.ruanyifeng.com/blog/2014/06/git_remote.html)
 
-* [³£ÓÃ Git ÃüÁîÇåµ¥](http://www.ruanyifeng.com/blog/2015/12/git-cheat-sheet.html)
+* [å¸¸ç”¨Gitå‘½ä»¤æ¸…å•](http://www.ruanyifeng.com/blog/2015/12/git-cheat-sheet.html)
 
-* [Git Ê¹ÓÃ¹æ·¶Á÷³Ì](http://www.ruanyifeng.com/blog/2015/08/git-use-process.html)
+* [Gitä½¿ç”¨è§„èŒƒæµç¨‹](http://www.ruanyifeng.com/blog/2015/08/git-use-process.html)
 
-* [ÈçºÎ¸ßĞ§ÀûÓÃGitHub](http://www.yangzhiping.com/tech/github.html)
+* [å¦‚ä½•é«˜æ•ˆåˆ©ç”¨GitHub](http://www.yangzhiping.com/tech/github.html)
 
-* [Í¼½âGit](http://my.oschina.net/xdev/blog/114383?fromerr=SjMvdPpo)
+* [å›¾è§£Git](http://my.oschina.net/xdev/blog/114383?fromerr=SjMvdPpo)
 
-* [Äã¿ÉÄÜ²»ÖªµÀµÄ git rerere](https://ruby-china.org/topics/15809)
+* [ä½ å¯èƒ½ä¸çŸ¥é“çš„Git Rerere](https://ruby-china.org/topics/15809)
 
-* [GotGitHub](http://www.worldhello.net/gotgithub/)
+* [Got GitHub](http://www.worldhello.net/gotgithub/)
 
-* [Ê¹ÓÃGitHub½øĞĞÍÅ¶ÓºÏ×÷](http://xiaocong.github.io/blog/2013/03/20/team-collaboration-with-github/)
+* [ä½¿ç”¨GitHubè¿›è¡Œå›¢é˜Ÿåˆä½œ](http://xiaocong.github.io/blog/2013/03/20/team-collaboration-with-github/)
 
-* [ÔÚÏß½»»¥Ñ§Ï° github µÄÍøÕ¾](http://pcottle.github.io/learnGitBranching/?NODEMO)
+* [åœ¨çº¿äº¤äº’å­¦ä¹ Githubçš„ç½‘ç«™](http://pcottle.github.io/learnGitBranching/?NODEMO)
 
-###GitÖĞÎÄÊé¼®
+###Gitä¸­æ–‡ä¹¦ç±
 
-* [¡¶Pro Git¡·](http://git.oschina.net/progit/)
+* [ã€ŠPro Gitã€‹](http://git.oschina.net/progit/)
 
-* [¡¶GitHub ÂşÓÎÖ¸ÄÏ¡·](http://github.phodal.com/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+* [ã€ŠGitHubæ¼«æ¸¸æŒ‡å—ã€‹](http://github.phodal.com/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
-* [¡¶Git Community Book¡·](http://gitbook.liuhui998.com)
+* [ã€ŠGit Community Bookã€‹](http://gitbook.liuhui998.com)
 
-* [¡¶GitHubÃØ¼®¡·](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.zh-cn.md)
+* [ã€ŠGitHubç§˜ç±ã€‹](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.zh-cn.md)
 
-* [¡¶Git Magic¡·](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/zh_cn/index.html)
+* [ã€ŠGit Magicã€‹](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/zh_cn/index.html)
 
-###GitÖ®git-flow
+###Gitä¹‹git-flow
 
-* [git-flow ±¸ÍüÇåµ¥](http://danielkummer.github.io/git-flow-cheatsheet/index.zh_CN.html)
+* [git-flow å¤‡å¿˜æ¸…å•](http://danielkummer.github.io/git-flow-cheatsheet/index.zh_CN.html)
 
 
