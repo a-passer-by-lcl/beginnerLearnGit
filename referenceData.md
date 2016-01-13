@@ -1,7 +1,5 @@
 #Git参考资料
 
-* [献给写作者的Markdown新手指南](http://www.jianshu.com/p/q81RER)
-
 ###Git英文书籍以及资料
 
 * [《Pro Git》](http://git-scm.com/book/en/v2)
