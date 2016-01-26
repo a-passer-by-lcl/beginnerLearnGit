@@ -31,6 +31,8 @@
 
 * [专为设计师而写的GitHub快速入门教程](http://www.ui.cn/detail/20957.html)
 
+* [Git 参考手册](http://gitref.org/zh/index.html)
+
 * [慕课网---Git控制入门](http://www.imooc.com/learn/390)
 
 * [廖雪峰---Git教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
